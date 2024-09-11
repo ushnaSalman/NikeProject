@@ -67,7 +67,7 @@ html, body {
     position: relative;
 }
 .content-left {
-    height: 100%;
+    height: auto;
     width: 40%;
     padding: 80px 100px;
 }
